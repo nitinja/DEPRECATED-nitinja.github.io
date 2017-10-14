@@ -2,218 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fce736-ce6d-4482-834c-0fd5c587c7db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/1/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/10/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/10/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/100/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/100/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/11/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/11/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/12/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/12/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/13/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/13/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/14/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/14/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/15/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/15/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/16/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/16/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/17/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/17/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/18/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/18/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/19/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/19/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/2/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/20/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/20/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/21/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/21/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/22/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/22/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/23/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/23/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/24/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/24/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/25/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/25/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/26/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/26/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/27/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/27/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/28/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/28/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/29/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/29/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/3/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/30/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/30/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/31/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/31/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/32/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/32/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/33/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/33/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/34/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/34/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/35/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/35/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/36/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/36/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/37/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/37/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/38/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/38/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/39/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/39/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/4/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/40/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/40/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/41/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/41/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/42/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/42/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/43/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/43/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/44/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/44/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/45/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/45/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/46/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/46/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/47/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/47/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/48/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/48/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/49/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/49/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/5/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/50/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/50/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/51/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/51/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/52/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/52/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/53/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/53/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/54/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/54/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/55/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/55/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/56/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/56/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/57/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/57/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/58/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/58/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/59/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/59/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/6/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/60/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/60/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/61/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/61/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/62/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/62/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/63/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/63/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/64/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/64/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/65/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/65/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/66/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/66/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/67/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/67/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/68/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/68/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/69/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/69/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/7/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/7/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/70/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/70/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/71/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/71/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/72/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/72/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/73/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/73/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/74/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/74/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/75/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/75/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/76/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/76/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/77/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/77/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/78/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/78/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/79/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/79/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/8/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/8/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/80/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/80/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/81/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/81/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/82/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/82/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/83/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/83/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/84/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/84/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/85/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/85/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/86/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/86/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/87/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/87/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/88/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/88/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/89/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/89/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/9/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/9/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/90/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/90/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/91/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/91/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/92/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/92/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/93/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/93/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/94/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/94/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/95/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/95/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/96/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/96/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/97/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/97/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/98/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/98/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/99/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/post/99/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/routeData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-static-routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routeData.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" afterPath="$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -234,12 +24,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-137">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507996280950" expanded="true" signature="7:106" ph="..." />
+                <marker date="1507996280950" expanded="true" signature="306:634" ph="{...}" />
+                <marker date="1507996280950" expanded="true" signature="333:466" ph="{...}" />
+                <marker date="1507996280950" expanded="true" signature="542:632" ph="{...}" />
+                <marker date="1507996280950" expanded="true" signature="581:603" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <marker date="1507996280950" expanded="true" signature="7:69" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -263,11 +93,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -301,6 +139,30 @@
               <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source-nitin.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source-nitin.com" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source-nitin.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source-nitin.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -312,6 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.2.1/bin/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -339,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507910724226</updated>
       <workItem from="1507910725442" duration="797000" />
-      <workItem from="1507994547107" duration="1029000" />
+      <workItem from="1507994547107" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="test website with react-static">
       <created>1507910803686</created>
@@ -366,11 +229,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1826000" />
+    <option name="totallyTimeSpent" value="2020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -378,7 +240,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -462,9 +324,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507996280950" expanded="true" signature="7:106" ph="..." />
+            <marker date="1507996280950" expanded="true" signature="306:634" ph="{...}" />
+            <marker date="1507996280950" expanded="true" signature="333:466" ph="{...}" />
+            <marker date="1507996280950" expanded="true" signature="542:632" ph="{...}" />
+            <marker date="1507996280950" expanded="true" signature="581:603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1507996280950" expanded="true" signature="7:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

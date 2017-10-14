@@ -1,9 +1,10 @@
-/* eslint-disable react/no-danger */
 import axios from 'axios'
 import React, { Component } from 'react'
-import { renderStatic } from 'glamor/server'
 
 export default {
+  getSiteProps: () => ({
+    title: 'React Static',
+  }),
   getRoutes: async () => {
     const { data: posts } = await axios.get('https://jsonplaceholder.typicode.com/posts')
     return [
@@ -35,24 +36,14 @@ export default {
       },
     ]
   },
-  postRenderMeta: async html => ({
-    glamorousData: renderStatic(() => html),
-  }),
   Html: class CustomHtml extends Component {
     render () {
-      const {
-        Html,
-        Head,
-        Body,
-        children,
-        staticMeta: { glamorousData: { css } = {} } = {},
-      } = this.props
-
+      const { Html, Head, Body, children } = this.props
       return (
-        <Html>
+        <Html lang="en-US">
           <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <style dangerouslySetInnerHTML={{ __html: css }} />
+            <link rel="stylesheet" href="/app.css" />
           </Head>
           <Body>{children}</Body>
         </Html>

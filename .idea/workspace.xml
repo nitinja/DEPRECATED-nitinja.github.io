@@ -2,247 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fce736-ce6d-4482-834c-0fd5c587c7db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/200.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset-manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.c17080f1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.c17080f1.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.518ca1b6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.518ca1b6.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/logo.5d5d9eef.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.static.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/1/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/10/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/10/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/100/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/100/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/11/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/11/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/12/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/12/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/13/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/13/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/14/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/14/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/15/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/15/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/16/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/16/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/17/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/17/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/18/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/18/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/19/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/19/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/2/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/20/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/20/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/21/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/21/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/22/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/22/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/23/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/23/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/24/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/24/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/25/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/25/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/26/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/26/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/27/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/27/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/28/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/28/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/29/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/29/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/3/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/30/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/30/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/31/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/31/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/32/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/32/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/33/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/33/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/34/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/34/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/35/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/35/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/36/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/36/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/37/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/37/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/38/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/38/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/39/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/39/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/4/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/40/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/40/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/41/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/41/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/42/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/42/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/43/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/43/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/44/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/44/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/45/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/45/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/46/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/46/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/47/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/47/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/48/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/48/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/49/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/49/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/5/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/50/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/50/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/51/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/51/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/52/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/52/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/53/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/53/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/54/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/54/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/55/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/55/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/56/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/56/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/57/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/57/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/58/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/58/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/59/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/59/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/6/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/60/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/60/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/61/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/61/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/62/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/62/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/63/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/63/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/64/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/64/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/65/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/65/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/66/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/66/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/67/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/67/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/68/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/68/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/69/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/69/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/7/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/7/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/70/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/70/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/71/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/71/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/72/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/72/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/73/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/73/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/74/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/74/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/75/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/75/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/76/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/76/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/77/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/77/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/78/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/78/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/79/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/79/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/8/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/80/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/80/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/81/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/81/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/82/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/82/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/83/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/83/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/84/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/84/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/85/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/85/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/86/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/86/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/87/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/87/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/88/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/88/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/89/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/89/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/9/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/9/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/90/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/90/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/91/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/91/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/92/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/92/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/93/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/93/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/94/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/94/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/95/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/95/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/96/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/96/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/97/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/97/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/98/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/98/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/99/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/post/99/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-static-routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routeData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/public/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/404.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/About.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/Blog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/containers/Post.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/static.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source-nitin.com/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deploy.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/.idea/nitinj.com-website.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/public/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/registerServiceWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/yarn.lock" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -253,11 +33,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="200.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/200.html">
+      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -292,7 +102,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/source/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1734" />
     <option name="height" value="1407" />
@@ -315,6 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,12 +137,15 @@
               <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nitinja.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nitinja.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,6 +163,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\nitinja.github.io\source" />
       <recent name="C:\workspace\nitinja.github.io" />
     </key>
   </component>
@@ -377,7 +196,8 @@
       <workItem from="1507994547107" duration="1393000" />
       <workItem from="1508775815824" duration="111000" />
       <workItem from="1508775950380" duration="996000" />
-      <workItem from="1508806685617" duration="4620000" />
+      <workItem from="1508806685617" duration="5417000" />
+      <workItem from="1508824725390" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="test website with react-static">
       <created>1507910803686</created>
@@ -407,24 +227,31 @@
       <option name="project" value="LOCAL" />
       <updated>1508776006631</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="trying CRA, create react app static">
+      <created>1508823925275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508823925275</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7917000" />
+    <option name="totallyTimeSpent" value="9420000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
+    <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08191925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16509435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933652" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24985372" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33093524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -437,6 +264,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -444,26 +281,43 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="test website with react-static" />
-    <option name="LAST_COMMIT_MESSAGE" value="test website with react-static" />
+    <MESSAGE value="trying CRA, create react app static" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying CRA, create react app static" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/static.config.js">
+    <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/static.config.js" />
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,42 +325,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js" />
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,6 +344,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,95 +352,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routeData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css" />
+    <entry file="file://$PROJECT_DIR$/routeData.json" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/containers/Home.js" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/public/app.css" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/src/App.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -617,74 +374,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/static.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source-nitin.com/static.config.js" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404/routeData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/routeData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/routeData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="0" column="5679" lean-forward="false" selection-start-line="0" selection-start-column="5679" selection-end-line="0" selection-end-column="5679" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/404/routeData.json" />
+    <entry file="file://$PROJECT_DIR$/about/routeData.json" />
+    <entry file="file://$PROJECT_DIR$/blog/routeData.json" />
+    <entry file="file://$PROJECT_DIR$/about/index.html" />
     <entry file="file://$PROJECT_DIR$/200.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="125" selection-end-line="0" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>

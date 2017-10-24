@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 
 export default {
   getSiteProps: () => ({
-    title: 'React Static',
+    title: 'React Static+',
   }),
   getRoutes: async () => {
     const { data: posts } = await axios.get('https://jsonplaceholder.typicode.com/posts')

@@ -1,28 +1,55 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+body {
+  font-family: 'Libre Baskerville', serif;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+/*.App {*/
+  /*text-align: center;*/
+/*}*/
+
+/*.App-logo {*/
+  /*animation: App-logo-spin infinite 20s linear;*/
+  /*height: 80px;*/
+/*}*/
+
+/*.App-header {*/
+  /*background-color: #222;*/
+  /*height: 150px;*/
+  /*padding: 20px;*/
+  /*color: white;*/
+/*}*/
+
+/*.App-title {*/
+  /*font-size: 1.5em;*/
+/*}*/
+
+/*.App-intro {*/
+  /*font-size: large;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+  /*from { transform: rotate(0deg); }*/
+  /*to { transform: rotate(360deg); }*/
+/*}*/
+
+a {
+  color: #2e2e2e;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+a:hover {
+  color: #2e2e2e;
+  text-decoration: none;
 }
 
-.App-title {
-  font-size: 1.5em;
+.nav-link {
+  padding-right: .5rem;
+  padding-left: .8rem;
 }
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.multicolored-gradient {
+  fill: linear-gradient(to right, blue, violet, green, cyan, blue, violet); /* Standard syntax (must be last) */
+  background: linear-gradient(to right, blue, violet, green, cyan, blue, violet); /* Standard syntax (must be last) */
+  height: 1px;
+  margin-top: 0;
 }

@@ -2,32 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fce736-ce6d-4482-834c-0fd5c587c7db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/nitinja.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/components/NavLink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/views/404/404.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/views/about/about.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/views/home/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/views/projects/projects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.e29bbb85.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.e29bbb85.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.a2385191.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.a2385191.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/views/about/profile_pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/profile_pic.32d6fd22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.aec04882.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.aec04882.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.5526d0c5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/main.5526d0c5.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/200.html" afterPath="$PROJECT_DIR$/200.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset-manifest.json" afterPath="$PROJECT_DIR$/asset-manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-worker.js" afterPath="$PROJECT_DIR$/service-worker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/package.json" afterPath="$PROJECT_DIR$/source/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/App.css" afterPath="$PROJECT_DIR$/source/src/App.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/App.js" afterPath="$PROJECT_DIR$/source/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/yarn.lock" afterPath="$PROJECT_DIR$/source/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/views/about/about.js" afterPath="$PROJECT_DIR$/source/src/views/about/about.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/views/projects/projects.js" afterPath="$PROJECT_DIR$/source/src/views/projects/projects.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +32,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="289">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -60,13 +51,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projects.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/src/views/projects/projects.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/src/views/about/about.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="113" lean-forward="false" selection-start-line="16" selection-start-column="113" selection-end-line="16" selection-end-column="113" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile_pic.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/src/views/about/profile_pic.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -80,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="321">
+              <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -149,14 +159,14 @@
         <option value="$PROJECT_DIR$/source/src/pages/home/home.js" />
         <option value="$PROJECT_DIR$/source/src/pages/about/about.js" />
         <option value="$PROJECT_DIR$/source/src/views/home/home.js" />
-        <option value="$PROJECT_DIR$/source/src/views/about/about.js" />
         <option value="$PROJECT_DIR$/source/src/views/404/404.js" />
-        <option value="$PROJECT_DIR$/source/src/views/projects/projects.js" />
         <option value="$PROJECT_DIR$/source/package.json" />
         <option value="$PROJECT_DIR$/source/src/components/NavLink.js" />
         <option value="$PROJECT_DIR$/source/src/logo.svg" />
-        <option value="$PROJECT_DIR$/source/src/App.js" />
         <option value="$PROJECT_DIR$/source/src/App.css" />
+        <option value="$PROJECT_DIR$/source/src/App.js" />
+        <option value="$PROJECT_DIR$/source/src/views/about/about.js" />
+        <option value="$PROJECT_DIR$/source/src/views/projects/projects.js" />
       </list>
     </option>
   </component>
@@ -178,7 +188,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1734" />
+    <option name="width" value="1841" />
     <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -229,8 +239,12 @@
     <property name="SearchEverywhereHistoryKey" value="eslint&#9;FILE&#9;file://C:/workspace/nitinja.github.io/source/node_modules/styled-components/flow-typed/npm/eslint-config-airbnb_vx.x.x.js" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\nitinja.github.io\source\src\views\about" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\nitinja.github.io" />
+      <recent name="C:\workspace\nitinja.github.io\source\public" />
       <recent name="C:\workspace\nitinja.github.io\source\src\views" />
       <recent name="C:\workspace\nitinja.github.io\source\src\pages" />
       <recent name="C:\workspace\nitinja.github.io\source" />
@@ -272,7 +286,7 @@
       <workItem from="1508988629448" duration="5325000" />
       <workItem from="1509111847909" duration="4386000" />
       <workItem from="1509167628093" duration="843000" />
-      <workItem from="1509189369150" duration="6323000" />
+      <workItem from="1509189369150" duration="16008000" />
     </task>
     <task id="LOCAL-00001" summary="test website with react-static">
       <created>1507910803686</created>
@@ -323,16 +337,23 @@
       <option name="project" value="LOCAL" />
       <updated>1508906303858</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added links, blog link">
+      <created>1509195816536</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509195816536</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31346000" />
+    <option name="totallyTimeSpent" value="41031000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
+    <frame x="-7" y="0" width="1841" height="1407" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16509435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15529673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933652" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -375,14 +396,14 @@
     <MESSAGE value="test website with react-static" />
     <MESSAGE value="trying CRA, create react app static" />
     <MESSAGE value="Added logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added logo" />
+    <MESSAGE value="Added links, blog link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added links, blog link" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source-nitin.com/static.config.js" />
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -513,14 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/views/about/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/src/views/404/404.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -589,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/views/projects/projects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/src/logo.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -605,20 +610,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/views/about/profile_pic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/views/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="113" lean-forward="false" selection-start-line="16" selection-start-column="113" selection-end-line="16" selection-end-column="113" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="289">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/App.css">
+    <entry file="file://$PROJECT_DIR$/source/src/views/projects/projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>

@@ -44,6 +44,7 @@ class App extends Component {
                                         <NavLink key={i} {...route} />
                                     ))}
                                     <a href="https://medium.com/@nitinj">Articles</a>
+                                    <a href="https://www.behance.net/nitinjadhav-ux">Design</a>
 
                                     {/*<li className="nav-item active">*/}
                                     {/*<Link to="/about">{'About*'}</Link>*/}

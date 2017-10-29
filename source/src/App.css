@@ -33,23 +33,61 @@ body {
   /*to { transform: rotate(360deg); }*/
 /*}*/
 
-a {
+.navbar a {
   color: #2e2e2e;
+  margin-right: 20px;
 }
 
-a:hover {
+.navbar a:hover {
   color: #2e2e2e;
   text-decoration: none;
 }
 
-.nav-link {
+.navbar .nav-link {
   padding-right: .5rem;
   padding-left: .8rem;
 }
 
+blockquote {
+  font-style: italic;
+  border-left: 1px solid #ccc;
+  padding-left: 10px;
+}
+
+p {
+  line-height: 2em;
+}
+
 .multicolored-gradient {
-  fill: linear-gradient(to right, blue, violet, green, cyan, blue, violet); /* Standard syntax (must be last) */
-  background: linear-gradient(to right, blue, violet, green, cyan, blue, violet); /* Standard syntax (must be last) */
-  height: 1px;
-  margin-top: 0;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  left:0;
+  width:100vw;
+  margin: 0;
+  background: linear-gradient(270deg, #0cbd0b, #bd0ba7, #caab00);
+
+  -webkit-animation: animateColor 19s ease infinite;
+  -moz-animation: animateColor 19s ease infinite;
+  animation: animateColor 19s ease infinite;
+}
+
+@-webkit-keyframes animateColor {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@-moz-keyframes animateColor {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@keyframes animateColor {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.navbar {
+  margin-bottom: 20px;
 }

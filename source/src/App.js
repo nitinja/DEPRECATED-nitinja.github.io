@@ -14,7 +14,7 @@ import './App.css';
 const routes = [
     {
         title: 'About',
-        path: '/about',
+        path: '/',
         component: About
     },
     {
@@ -45,17 +45,6 @@ class App extends Component {
                                     ))}
                                     <a href="https://medium.com/@nitinj">Articles</a>
                                     <a href="https://www.behance.net/nitinjadhav-ux">Design</a>
-
-                                    {/*<li className="nav-item active">*/}
-                                    {/*<Link to="/about">{'About*'}</Link>*/}
-                                    {/*/!*<a className="nav-link" href="#">About <span className="sr-only">(current)</span></a>*!/*/}
-                                    {/*</li>*/}
-                                    {/*<li className="nav-item">*/}
-                                    {/*<a className="nav-link" href="#">Projects</a>*/}
-                                    {/*</li>*/}
-                                    {/*<li className="nav-item">*/}
-                                    {/*<a className="nav-link" href="#">Blog</a>*/}
-                                    {/*</li>*/}
                                 </ul>
                             </div>
                         </div>
@@ -63,8 +52,7 @@ class App extends Component {
                     <hr className='multicolored-gradient'/>
                     <main role="main" className="container">
                         <Switch>
-                            <Route exact path="/" component={Home}/>
-                            <Route path="/about" component={About}/>
+                            <Route exact path="/" component={About}/>
                             <Route path="/projects" component={Projects}/>
                             <Route component={Page404}/>
                         </Switch>

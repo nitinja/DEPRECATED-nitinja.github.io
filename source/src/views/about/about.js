@@ -11,7 +11,7 @@ export default () => {
             </blockquote>
             <br/>
             <p>
-                I am lead designer and frontend developer (<a href='https://github.com/nitinja'>github</a>). I love designing polished UIs for products using cutting-edge tech. My passion? Creating beautiful, simplistic products.
+                I am lead artist and frontend developer (<a href='https://github.com/nitinja'>github</a>). I love designing polished UIs for products using cutting-edge tech. My passion? Creating beautiful, simplistic products.
             </p>
             <p>
                 I am working in the industry around 10 years and worked for industry leaders like Persistent systems and startups like QIO. I have done UX design for HP and other companies. Here is my <a href='https://www.behance.net/nitinjadhav-ux'>design portfolio.</a> I primarily

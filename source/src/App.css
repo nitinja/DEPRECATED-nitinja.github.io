@@ -1,93 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
-
+/* System Fonts as used by GitHub */
 body {
-  font-family: 'Libre Baskerville', serif;
-}
-
-/*.App {*/
-  /*text-align: center;*/
-/*}*/
-
-/*.App-logo {*/
-  /*animation: App-logo-spin infinite 20s linear;*/
-  /*height: 80px;*/
-/*}*/
-
-/*.App-header {*/
-  /*background-color: #222;*/
-  /*height: 150px;*/
-  /*padding: 20px;*/
-  /*color: white;*/
-/*}*/
-
-/*.App-title {*/
-  /*font-size: 1.5em;*/
-/*}*/
-
-/*.App-intro {*/
-  /*font-size: large;*/
-/*}*/
-
-/*@keyframes App-logo-spin {*/
-  /*from { transform: rotate(0deg); }*/
-  /*to { transform: rotate(360deg); }*/
-/*}*/
-
-.navbar a {
-  color: #2e2e2e;
-  margin-right: 20px;
-}
-
-.navbar a:hover {
-  color: #2e2e2e;
-  text-decoration: none;
-}
-
-.navbar .nav-link {
-  padding-right: .5rem;
-  padding-left: .8rem;
-}
-
-blockquote {
-  font-style: italic;
-  border-left: 1px solid #ccc;
-  padding-left: 10px;
-}
-
-p {
-  line-height: 2em;
-}
-
-.multicolored-gradient {
-  height: 2px;
-  position: absolute;
-  top: 0;
-  left:0;
-  width:100vw;
   margin: 0;
-  background: linear-gradient(270deg, #0cbd0b, #bd0ba7, #caab00);
-
-  -webkit-animation: animateColor 19s ease infinite;
-  -moz-animation: animateColor 19s ease infinite;
-  animation: animateColor 19s ease infinite;
+  padding: 0;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
 }
 
-@-webkit-keyframes animateColor {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-@-moz-keyframes animateColor {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-@keyframes animateColor {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
+.logo-main-text {
+  font-size: 10rem;
+  font-weight: bold;
+  color: #46535b;
 }
 
-.navbar {
-  margin-bottom: 20px;
+.container {
 }

@@ -1,3 +1,20 @@
+## This site uses
+- create-react-app
+- react-snapshot 
+- css variables for theming
+- Uses styled components (May be removed soon)
+
+Guide used to prerendered site: https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319
+
+## Building this project
+
+`yarn build`
+
+<br/>
+
+---
+
+## Older CRA readme
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

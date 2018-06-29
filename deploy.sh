@@ -2,7 +2,7 @@
 
 #one time: npm install react-static -g
 
-cd ./source-nitin.com
+cd ./source
 yarn build
 cp -R ./dist/* ../
 rm -rf ./dist

@@ -7,6 +7,7 @@ import Page404 from "./views/404/404";
 
 // import logo from "./logo.svg";
 import "./App.css";
+import "./tailwind-output.css";
 
 const routes = [
   {

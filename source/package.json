@@ -14,7 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "tailwind": "./node_modules/.bin/tailwind build src/tailwind-input.css -c ./tailwind.config.js -o src/tailwind-output.css"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^16.1.0",

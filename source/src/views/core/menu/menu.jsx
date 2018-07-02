@@ -42,7 +42,9 @@ export default class Menu extends Component {
           >
             PROJECTS
           </NavLink>
-          <div className="logo-main-text mx-8">NJ</div>
+          <NavLink className="logo-main-text mx-8" to={"/"} exact={true}>
+            NJ
+          </NavLink>
           <NavLink
             className="primary-link"
             to={"/blog"}

@@ -2,11 +2,12 @@ import React from "react";
 
 export default () => {
   return (
-    <div className="text-container">
-      <div className="text-xl text-center my-8">HELLO THERE.</div>
+    <div className="text-center text-container">
+      <h1 className="text-xl text-center my-8">HELLO THERE.</h1>
       <p>
-        I am fullstack developer, specializing in frontend design/development
-        and UX designer, based out of Pune - India. I love designing polished
+        I am <strong>Nitin</strong> - fullstack Javascript developer,
+        specializing in frontend design/development based out of Pune - India. I
+        am deeply passionate about user experience. I love designing polished
         UIs for products using cutting-edge tech. My passion? creating
         beautiful, simplistic products.
       </p>
@@ -20,19 +21,14 @@ export default () => {
       </p>
       <br />
       <p>
-        As you can guess, I am a follower of simplistic design philosophies - in
-        my design and life in general. I strive to be minimalist and{" "}
+        I am a believer of simplistic design - I believe that good interface is
+        invisible. I strive to be minimalist and{" "}
         <a href="http://gregmckeown.com/book/">essentialist</a>.
       </p>
       <br />
-      <p>
-        I live in Pune. In my free time, I like to write{" "}
-        <a href="https://medium.com/@nitinj">articles</a>, read sci-fi text and
-        comics (I own nice collection of comics!), play computer games and have
-        fun with my wife and cute 2-year old{" "}
-        <a href="https://photos.app.goo.gl/ovk4tbjv9CYs4zsJ3">daughter</a>.
-      </p>
-      <br />Say hi on Twitter <a href="https://twitter.com/_nitinj">@_nitinj</a>{" "}
+      <br />Say hi on Twitter <a href="https://twitter.com/_nitinj">
+        @_nitinj
+      </a>{" "}
       or{" "}
       <a href="https://www.linkedin.com/in/nitin-jadhav-23927aa/">Linkedin</a>.
     </div>

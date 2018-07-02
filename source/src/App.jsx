@@ -9,17 +9,16 @@ import About from "./views/about/about";
 import Menu from "./views/core/menu/menu";
 import Projects from "./views/projects/projects";
 import home from "./views/home/home";
-import foo from "./views/core/foo";
+import Footer from "./views/core/footer";
 
 class App extends Component {
   render() {
     return (
       <Router>
-        <div className="container">
+        <div>
           <Helmet title="NJ's Web Home" />
           <Menu />
-          <foo />
-          <main role="main">
+          <main className="container" role="main">
             <Switch>
               <Route exact path="/" component={home} />
               <Route exact path="/about" component={About} />
@@ -27,6 +26,7 @@ class App extends Component {
               <Route component={Page404} />
             </Switch>
           </main>
+          <Footer />
         </div>
       </Router>
     );

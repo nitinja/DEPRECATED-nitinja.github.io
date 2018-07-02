@@ -1,2 +1,63 @@
 @tailwind components;
 @tailwind utilities;
+
+/* System Fonts as used by GitHub */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-size: 16px; /* base font size */
+  color: var(--black);
+}
+
+/* variables */
+:root {
+  --black: #22292f;
+  --grey-darkest: #3d4852;
+  --grey-darker: #606f7b;
+  --grey-dark: #8795a1;
+  --grey: #b8c2cc;
+  --grey-light: #dae1e7;
+  --grey-lighter: #f1f5f8;
+  --white: #ffffff;
+
+  --xs: 0.25rem;
+  --s: 0.5rem;
+  --m: 1rem;
+  --l: 2rem;
+  --xl: 4rem;
+}
+
+.logo-main-text {
+  font-size: 10rem;
+  font-weight: bold;
+  color: var(--grey-darker);
+  display: inline-block;
+}
+
+.primary-link {
+  font-weight: 300;
+  margin: 0 var(--m);
+  text-decoration: none;
+  color: var(--grey-dark);
+}
+
+.primary-link:hover {
+  color: var(--grey-darkest);
+}
+
+.primary-link.active {
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.8rem;
+}
+
+.text-container {
+  max-width: 40rem;
+  margin: 0 auto;
+  text-align: center;
+}

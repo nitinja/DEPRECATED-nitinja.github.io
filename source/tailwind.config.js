@@ -701,7 +701,6 @@ module.exports = {
   modules: {
     backgroundColors: ["hover"],
     borderColors: ["hover"],
-    borderRadius: [],
     borderStyle: [],
     borderWidths: [],
     cursor: [],

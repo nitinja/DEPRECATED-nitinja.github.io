@@ -30,7 +30,7 @@ body {
 }
 
 .logo-main-text {
-  font-size: 10rem;
+  font-size: 5rem;
   font-weight: bold;
   /* color: var(--grey-darker); */
   display: inline-block;
@@ -43,13 +43,44 @@ body {
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
+  user-select: none;
+}
+.logo-main-subtext {
+  font-size: 0.8rem;
+  color: var(--grey-darker);
+  font-weight: 200;
+  position: relative;
+  z-index: 1;
+  user-select: none;
+}
+
+.logo-main-subtext:before {
+  border-top: 1px solid #dfdfdf;
+  content: "";
+  margin: 0 auto;
+  /* this centers the line to the full width specified */
+  position: absolute;
+  /* positioning must be absolute here, and relative positioning must be applied to the parent */
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 95%;
+  z-index: -1;
+}
+.logo-main-subtext span {
+  /* to hide the lines from behind the text, you have to set the background color the same as the container */
+  background: #fff;
+  padding: 0 15px;
 }
 
 .primary-link {
+  font-size: 0.8rem;
   font-weight: 300;
-  margin: 0 var(--m);
+  margin: 0 var(--s);
   text-decoration: none;
   color: var(--grey-dark);
+  white-space: nowrap;
 }
 
 .primary-link:hover {
@@ -66,6 +97,14 @@ body {
 
 .primary-link.active {
   font-weight: 600;
+  background-image: linear-gradient(
+    to right bottom,
+    rgb(118, 94, 230),
+    rgb(28, 159, 255)
+  );
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
 }
 
 p {
@@ -79,13 +118,22 @@ a {
 .text-container {
   max-width: 40rem;
   margin: 0 auto;
-  text-align: center;
 }
 
 .footer {
   background-color: var(--grey-darkest);
   color: var(--grey-dark);
-  margin-top: 4rem;
+  margin-top: 2rem;
   padding: 1rem;
   text-align: center;
+}
+
+/* media queries */
+@media (min-width: 576px) {
+  .primary-link {
+    margin: 0 var(--m);
+  }
+}
+
+@media (min-width: 992px) {
 }

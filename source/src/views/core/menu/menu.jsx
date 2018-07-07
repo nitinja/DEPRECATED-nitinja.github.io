@@ -2,6 +2,7 @@ import React, { Component, Fragment } from "react";
 import { NavLink } from "react-router-dom";
 import about from "../../about/about";
 import projects from "../../projects/projects";
+import Home from "react-icons/lib/ti/home";
 
 const routes = [
   {
@@ -24,8 +25,8 @@ const routes = [
 export default class Menu extends Component {
   render() {
     return (
-      <div>
-        <ul className="text-center font-light flex justify-center items-center">
+      <div className="text-center mt-8 mb-10">
+        <ul className="text-center font-light flex justify-center items-center mb-4 sm:text-base">
           <NavLink
             className="primary-link"
             to={"/about"}
@@ -42,9 +43,7 @@ export default class Menu extends Component {
           >
             PROJECTS
           </NavLink>
-          <NavLink className="logo-main-text mx-8" to={"/"} exact={true}>
-            NJ
-          </NavLink>
+
           <NavLink
             className="primary-link"
             to={"/blog"}
@@ -60,6 +59,15 @@ export default class Menu extends Component {
             DESIGN PORTFOLIO
           </a>
         </ul>
+        <div>
+          <NavLink className="logo-main-text" to={"/"} exact={true}>
+            NJ
+          </NavLink>
+          <div className="logo-main-subtext">
+            <span>NITIN JADHAV</span>
+          </div>
+          {/* <hr className="hr" /> */}
+        </div>
       </div>
     );
   }
